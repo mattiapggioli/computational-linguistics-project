@@ -1,4 +1,4 @@
-# Progetto di Linguistica (A.A. 2020/2021)
+# Progetto di Linguistica Computazionale (A.A. 2020/2021)
 # Linee guida 
 
 ## Obiettivo:
