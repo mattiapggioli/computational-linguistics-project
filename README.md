@@ -5,7 +5,7 @@
 Realizzazione di due programmi scritti in Python che utilizzino i moduli presenti in Natural Language Toolkit per leggere due file di testo in inglese, annotarli linguisticamente, confrontarli sulla base degli indici statistici richiesti ed estrarne le informazioni richieste.
 
 ## Fasi realizzative:
-Create due corpora in inglese contenenti i discorsi di Joe Biden e di Donald Trump, di almeno 5000 token ciascuno. I corpora devono essere creati selezionando i discorsi di Biden da https://www.rev.com/blog transcript-tag/joe-biden-transcripts e di Trump da https://www.rev.com/blog/transcript-tag/donald-trump-speech-transcripts e salvandoli in due file di testo semplice utf-8. Sviluppate due programmi che prendono in input i due file da riga di comando, che li analizzano linguisticamente fino al Part-of-Speech tagging e che eseguono le operazioni richieste.
+Create due corpora in inglese contenenti i discorsi di Joe Biden e di Donald Trump, di almeno 5000 token ciascuno. I corpora devono essere creati selezionando i discorsi di Biden da https://www.rev.com/blog/transcript-tag/joe-biden-transcripts e di Trump da https://www.rev.com/blog/transcript-tag/donald-trump-speech-transcripts e salvandoli in due file di testo semplice utf-8. Sviluppate due programmi che prendono in input i due file da riga di comando, che li analizzano linguisticamente fino al Part-of-Speech tagging e che eseguono le operazioni richieste.
 
 - Programma 1 - Confrontate i due testi sulla base delle seguenti informazioni statistiche:
 	- il numero di frasi e di token;
